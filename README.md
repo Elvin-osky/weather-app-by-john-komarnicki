@@ -6,40 +6,6 @@ This repository contains code for a Weather App built using Vue.js. The code is 
 
 This Weather App is designed to provide users with up-to-date weather information for their location. It fetches weather data from a weather API and displays it in a user-friendly interface. Users can view current weather conditions, as well as forecasts for the upcoming days.
 
-## Installation
-
-To run the Weather App locally, follow these steps:
-
-1. Clone this repository to your local machine:
-
-    ```
-    git clone https://github.com/your-username/weather-app-vue.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```
-    cd weather-app-vue
-    ```
-
-3. Install dependencies using npm or yarn:
-
-    ```
-    npm install
-    # or
-    yarn install
-    ```
-
-4. Start the development server:
-
-    ```
-    npm run serve
-    # or
-    yarn serve
-    ```
-
-5. Open your browser and navigate to [http://localhost:8080](http://localhost:8080) to view the Weather App.
-
 ## Usage
 
 Once the Weather App is running, you can:
@@ -51,10 +17,6 @@ Once the Weather App is running, you can:
 ## Credits
 
 The code in this repository is based on a YouTube lesson by [John Komarnicki](https://github.com/johnkomarnicki) on building a Weather App with Vue.js. You can find the original lesson and more of John's work on his GitHub profile.
-
-## Contributing
-
-Contributions to this Weather App project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
 

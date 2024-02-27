@@ -1,4 +1,4 @@
-# Weather App via Vue.js
+# 🌤️ Weather App via Vue.js
 
 This repository contains code for a Weather App built using Vue.js. The code is based on a YouTube lesson by [John Komarnicki](https://github.com/johnkomarnicki) on building a weather application with Vue.js.
 

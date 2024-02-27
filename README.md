@@ -52,6 +52,10 @@ Once the Weather App is running, you can:
 
 The code in this repository is based on a YouTube lesson by [John Komarnicki](https://github.com/johnkomarnicki) on building a Weather App with Vue.js. You can find the original lesson and more of John's work on his GitHub profile.
 
+- [Youtube | NetNinja](https://www.youtube.com/@NetNinja)
+- [Github | John Kormarnicki](https://github.com/johnkomarnicki)
+
+
 ## Contributing
 
 Contributions to this Weather App project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.

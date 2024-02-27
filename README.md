@@ -13,13 +13,13 @@ To run the Weather App locally, follow these steps:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/weather-app-vue.git
+    git clone git@github.com:Elvin-osky/weather-app-by-john-komarnicki.git
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd weather-app-vue
+    cd weather-app-by-john-komarnicki
     ```
 
 3. Install dependencies using npm or yarn:

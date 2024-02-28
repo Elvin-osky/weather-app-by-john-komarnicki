@@ -31,7 +31,7 @@ To run the Weather App locally, follow these steps:
     ```
 
 4. Start the development server:
-
+✨
     ```
     npm run serve
     # or
@@ -52,8 +52,8 @@ Once the Weather App is running, you can:
 
 The code in this repository is based on a YouTube lesson by [John Komarnicki](https://github.com/johnkomarnicki) on building a Weather App with Vue.js. You can find the original lesson and more of John's work on his GitHub profile.
 
-- [Youtube | NetNinja](https://www.youtube.com/@NetNinja)
-- [Github | John Kormarnicki](https://github.com/johnkomarnicki)
+- [Youtube ✨| NetNinja](https://www.youtube.com/@NetNinja)
+- [Github  ✨| John Kormarnicki](https://github.com/johnkomarnicki)
 
 
 ## Contributing

@@ -56,10 +56,6 @@ The code in this repository is based on a YouTube lesson by [John Komarnicki](ht
 - [Github|     John Kormarnicki](https://github.com/johnkomarnicki)
 
 
-## Contributing
-
-Contributions to this Weather App project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
 ## License
 
 This Weather App project is licensed under the [MIT License](LICENSE).
